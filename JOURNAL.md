@@ -16,7 +16,7 @@ Time Spent: 3h 31m
 
 # May 26th: Changed PCB layout and added more to the BOM
 
-I decided that remaking the teensy 4.1 was a bad idea and switched to the breakout board insted, I'm about 75% with the schematic and BOM.
+I decided that remaking the teensy 4.1 as the fist thing was a bad idea and switched to the breakout board insted, I'm about 60% with the schematic and BOM.
 
 ![image](https://github.com/user-attachments/assets/5a024d62-abf4-496a-a97e-397e432c8146)
 ![image](https://github.com/user-attachments/assets/f2039d96-81aa-45e6-b314-f45918462d98)
