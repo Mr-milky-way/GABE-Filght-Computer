@@ -24,4 +24,13 @@ I decided that remaking the teensy 4.1 as the fist thing was a bad idea and swit
 Time Spent: 4h 30m
 
 
-**Total time spent: 8h 1m**
+# June 4th: Started work on custom Teensy 4.1 and added a level shifter to the servo lines
+
+I started work on remaking the teensy removed the I2C level shifter and added one to the PWM lines, I also swaped all the capacitors and resistor parts from 603 to 805.
+
+![image](https://github.com/user-attachments/assets/2f90d29a-6e22-4c33-8126-c24dbecc67df)
+
+
+Time Spent: 1h 34m
+
+**Total time spent: 9h 35m**
