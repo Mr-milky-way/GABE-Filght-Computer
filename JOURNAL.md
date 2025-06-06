@@ -33,4 +33,15 @@ I started work on remaking the teensy removed the I2C level shifter and added on
 
 Time Spent: 1h 34m
 
+
+# June 5th: Just about done remaking the teensy
+
+I got close to finnishing the teensy but I might change it around just to make it look nice, didn't really change the BOM that much.
+
+![image](https://github.com/user-attachments/assets/d6cfb741-c46a-4dc6-b9de-6e1062843f7d)
+
+
+
+Time Spent: 2h 37m
+
 **Total time spent: 9h 35m**
