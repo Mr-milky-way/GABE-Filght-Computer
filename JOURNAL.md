@@ -44,4 +44,4 @@ I got close to finnishing the teensy but I might change it around just to make i
 
 Time Spent: 2h 37m
 
-**Total time spent: 9h 35m**
+**Total time spent: 12h 12m**
