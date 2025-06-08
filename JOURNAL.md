@@ -41,7 +41,14 @@ I got close to finnishing the teensy but I might change it around just to make i
 ![image](https://github.com/user-attachments/assets/d6cfb741-c46a-4dc6-b9de-6e1062843f7d)
 
 
+# June 7th: Finshed the teensy bit, and made updates to the BOM
 
-Time Spent: 2h 37m
+I finnished the Teensy and added mosfets, I also updated the BOM. About one hour in, I went "I'm just going to make this one with one microprocessor", this is because this is the first time I've made a board like this before (custom teensy thingy) and I only want one place where it can go wrong. If this one works well, I might make a varatint with 3 microprocessors just to make it look nice.
 
-**Total time spent: 12h 12m**
+![image](https://github.com/user-attachments/assets/42d1e633-0bd9-4154-b1a1-db957fda81f2)
+![image](https://github.com/user-attachments/assets/90a2a3a7-22d3-45df-9ede-903d691fa4c4)
+
+
+Time Spent: 2h 50m
+
+**Total time spent: 15h 2m**
