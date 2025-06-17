@@ -5,6 +5,8 @@ description: "A small, multipurpose flight computer for a rocket"
 created_at: "2025-05-24"
 ---
 
+**Total time spent: 17h 28m**
+
 # May 24th: Started on the PCB and BOM
 
 I set up my repo, started to make the PCB layout and a BOM (I know there is a better way to route, but I think it looks cool)
@@ -41,9 +43,9 @@ I got close to finnishing the teensy but I might change it around just to make i
 ![image](https://github.com/user-attachments/assets/d6cfb741-c46a-4dc6-b9de-6e1062843f7d)
 
 
-# June 7th: Finshed the teensy bit, and made updates to the BOM
+# June 7th: Finished the teensy bit, and made updates to the BOM
 
-I finnished the Teensy and added mosfets, I also updated the BOM. About one hour in, I went "I'm just going to make this one with one microprocessor", this is because this is the first time I've made a board like this before (custom teensy thingy) and I only want one place where it can go wrong. If this one works well, I might make a varatint with 3 microprocessors just to make it look nice.
+I finished the Teensy and added mosfets, I also updated the BOM. About one hour in, I went "I'm just going to make this one with one microprocessor", this is because this is the first time I've made a board like this before (custom teensy thingy) and I only want one place where it can go wrong. If this one works well, I might make a varatint with 3 microprocessors just to make it look nice.
 
 ![image](https://github.com/user-attachments/assets/42d1e633-0bd9-4154-b1a1-db957fda81f2)
 ![image](https://github.com/user-attachments/assets/90a2a3a7-22d3-45df-9ede-903d691fa4c4)
@@ -51,4 +53,12 @@ I finnished the Teensy and added mosfets, I also updated the BOM. About one hour
 
 Time Spent: 2h 50m
 
-**Total time spent: 15h 2m**
+# June 17th: Finished schematic, started on layout, and made small updates to the BOM
+
+I finished the schmatic and started out on the layout, I tryed to make it look nice but ldk, just about finished the BOM.
+
+![image](https://github.com/user-attachments/assets/e238d038-1c44-47b0-b568-c51ce268f54c)
+![image](https://github.com/user-attachments/assets/6f30ba93-d7e8-4773-b7d0-bdf9e48c7c29)
+
+
+Time Spent: 2h 26m
