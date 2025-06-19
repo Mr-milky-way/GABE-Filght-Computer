@@ -5,7 +5,7 @@ description: "A small, multipurpose flight computer for a rocket"
 created_at: "2025-05-24"
 ---
 
-**Total time spent: 17h 28m**
+**Total time spent: 20h 0m**
 
 # May 24th: Started on the PCB and BOM
 
@@ -62,3 +62,14 @@ I finished the schmatic and started out on the layout, I tryed to make it look n
 
 
 Time Spent: 2h 26m
+
+# June 18th: Finished the PCB.
+
+I just finnished the PCB routing, just need to make sure it can be made with PCB-way
+
+![image](https://github.com/user-attachments/assets/4e1f0f2b-d174-41b1-b028-e38ac76fbe95)
+![image](https://github.com/user-attachments/assets/68d7b826-e553-454c-b840-9bd85716d55c)
+
+
+
+Time Spent: 2h 32m
