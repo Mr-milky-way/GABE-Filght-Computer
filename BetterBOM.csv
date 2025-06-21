@@ -1,0 +1,55 @@
+Part,Cost (all parts),Count,Supplyer,Link,Part ID,Use,Value
+MIMXRT1062DVJ6B,$11.93 ,1,Digikey,MIMXRT1062DVJ6B NXP USA Inc. | Integrated Circuits (ICs) | DigiKey,U5,MPU,
+BNO055,$12.34 ,1,Digikey,"BNO055 Bosch Sensortec | Sensors, Transducers | DigiKey",U1,IMU,
+TXB0108PWRG4,$1.41 ,1,Digikey,TXB0108PWRG4 Texas Instruments | Integrated Circuits (ICs) | DigiKey,U6,Level Shifter,
+RTAN0805BKE10K0,$0.34 ,1,Digikey,RTAN0805BKE10K0 Stackpole Electronics Inc | Resistors | DigiKey,R1,Resistor,10KΩ
+FC-135R 32.7680KF-A0,$2.13 ,3,Digikey,"FC-135R 32.7680KF-A0 EPSON | Crystals, Oscillators, Resonators | DigiKey","X1,X2,X4",Crystal,32.7680KHZ
+CHV0805N250220FCT,$2.12 ,4,Digikey,"CHV0805N250220FCT Cal-Chip Electronics, Inc. | Capacitors | DigiKey","C1,C2,C5,C6",Capacitor,22PF
+CC0805KRX7R9BB104,$0.48 ,6,Digikey,CC0805KRX7R9BB104 YAGEO | Capacitors | DigiKey,"C3,C4,C7,C8,C11,C12",Capacitor,0.1UF
+BNO085,$13.05 ,1,Digikey,"BNO085 CEVA Technologies, Inc. | Sensors, Transducers | DigiKey",U2,IMU,
+BMP390,$3.15 ,1,Digikey,"BMP390 Bosch Sensortec | Sensors, Transducers | DigiKey",U3,,
+NEO-M9N-00B,$27.00 ,1,Digikey,NEO-M9N-00B u-blox | RF and Wireless | DigiKey,U4,GPS,
+CONSMA001-C-G,$2.79 ,1,Digikey,"CONSMA001-C-G TE Connectivity Linx | Connectors, Interconnects | DigiKey",X3,SMA connector,
+RG0603R-330-D-T10,$0.16 ,1,Digikey,RG0603R-330-D-T10 Susumu | Resistors | DigiKey,R2,Resistor,33Ω
+BLM15PX121SN1D,$0.30 ,3,Digikey,BLM15PX121SN1D Murata Electronics | Filters | DigiKey,FB1-FB3,Ferrite Bead,120Ω
+CC0805JRNPO9BN470,$0.10 ,1,Digikey,CC0805JRNPO9BN470 YAGEO | Capacitors | DigiKey,C9,Capacitor,47PF
+ML414H IV01E,$1.84 ,1,Digikey,ML414H IV01E Seiko Instruments | Battery Products | DigiKey,BT1,Battery Holder,
+PMEG4005AEA-QX,$0.32 ,1,Digikey,https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMEG4005AEA-QX/17295512,D1,Diode,
+RG0603P-102-B-T10,$0.20 ,1,Digikey,RG0603P-102-B-T10 Susumu | Resistors | DigiKey,R3,Resistor,1KΩ
+C0805C105K9RACTU,$0.15 ,1,Digikey,C0805C105K9RACTU KEMET | Capacitors | DigiKey,C10,Capacitor,1UF
+BL-HBXJXGX32L,$0.50 ,1,Digikey,BL-HBXJXGX32L American Bright Optoelectronics Corporation,D2,LED,
+XRCGB24M000F3M00R0,$0.30 ,1,Digikey,"XRCGB24M000F3M00R0 Murata Electronics | Crystals, Oscillators, Resonators | DigiKey",Y1,Crystal,24MHZ
+MLZ2012N4R7LT000,$0.10 ,1,Digikey,"MLZ2012N4R7LT000 TDK Corporation | Inductors, Coils, Chokes | DigiKey",L1,Inductor,4.7UH
+112J-TDAR-R01,$2.52 ,1,Digikey,"112J-TDAR-R01 ATTEND Technology | Connectors, Interconnects | DigiKey",K1,SD card holder,
+BAT54CTB6_R1_00001,$0.25 ,1,Digikey,BAT54CTB6_R1_00001 Panjit International Inc. | Discrete Semiconductor Products | DigiKey,U$1,Diode,
+SKRPACE010,$0.21 ,1,Digikey,SKRPACE010 Alps Alpine | Switches | DigiKey,S1,Switch,
+W25Q64JVXGIM,$1.20 ,1,PJRC,Bootloader Chip for DIY Teensy 4.0 & 4.1 Projects,U9,Flash Chip,
+MKL02Z32,$6.25 ,1,PJRC,Bootloader Chip for DIY Teensy 4.0 & 4.1 Projects,U8,Bootloader,
+W25N01GVZEIG TR,$3.01 ,1,Digikey,W25N01GVZEIG TR Winbond Electronics | Integrated Circuits (ICs) | DigiKey,U10,Flash Chip,
+SMTB-1240-S-R,$1.35 ,1,Digikey,"SMTB-1240-S-R PUI Audio, Inc. | Audio Products | DigiKey",LS1,Buzzer,
+IRLML6344TRPBF,$2.10 ,6,Digikey,IRLML6344TRPBF Infineon Technologies | Discrete Semiconductor Products | DigiKey,Q2-Q7,Mosfet,
+LM7805MPX/NOPB,$1.38 ,1,Digikey,LM7805MPX/NOPB Texas Instruments | Integrated Circuits (ICs) | DigiKey,VR1,Voltage Reguator,
+TLV75533PDBVR,$0.32 ,1,Digikey,TLV75533PDBVR Texas Instruments | Integrated Circuits (ICs) | DigiKey,U7,Voltage Reguator,
+AK100/2DS-5.0-V-GREY,$5.64 ,12,Digikey,https://www.digikey.com/en/products/detail/ptr-hartmann/AK100-2DS-5-0-V-GREY/24787150,U$2-U$13,Terminal Block,
+GCJ21BL8YA224KA01L,$3.52 ,11,Digikey,GCJ21BL8YA224KA01L Murata Electronics | Capacitors | DigiKey,"C13,C14,C17,C18,C20,C23,C26,C31,C33,C34,C36",Capacitor,.22UF
+C0805C200J3HACAUTO,$0.26 ,2,Digikey,C0805C200J3HACAUTO KEMET | Capacitors | DigiKey,"C15,C16",Capacitor,20PF
+GRM21BR61H475KE51L,$0.95 ,5,Digikey,GRM21BR61H475KE51L Murata Electronics | Capacitors | DigiKey,"C19,C21,C24,C27,C30",Capacitor,4.7UF
+CGA4J1X7R1V225K125AC,$0.46 ,1,Digikey,CGA4J1X7R1V225K125AC TDK Corporation | Capacitors | DigiKey,C25,Capacitor,2.2UF
+CC0805KRX7R8BB103,$0.10 ,1,Digikey,CC0805KRX7R8BB103 YAGEO | Capacitors | DigiKey,C22,Capacitor,10NF
+GRM21BR6YA106KE43L,$1.36 ,4,Digikey,GRM21BR6YA106KE43L Murata Electronics | Capacitors | DigiKey,"C28,C29,C32,C35",Capacitor,10UF
+C0805C120J3GACTU,$0.44 ,2,Digikey,C0805C120J3GACTU KEMET | Capacitors | DigiKey,"C37,C38",Capacitor,12pF
+UJ2-MIBH-G-SMT-TR,$0.44 ,1,Digikey,"UJ2-MIBH-G-SMT-TR Same Sky (Formerly CUI Devices) | Connectors, Interconnects | DigiKey",J1,USB Con,
+B4B-XH-A,$0.17 ,1,Digikey,"B4B-XH-A JST Sales America Inc. | Connectors, Interconnects | DigiKey",J2,JST Con,
+61300311121,$0.96 ,8,Digikey,https://www.digikey.com/en/products/detail/würth-elektronik/61300311121/4846825,M1-M8,Header pins,
+DMG2305UX-7,$0.18 ,1,Digikey,DMG2305UX-7 Diodes Incorporated | Discrete Semiconductor Products | DigiKey,Q1,Mosfet,
+SDR10EZPF2201,$0.44 ,2,Digikey,SDR10EZPF2201 Rohm Semiconductor | Resistors | DigiKey,"R4,R5",Resistor,2.2kΩ
+SDR10EZPF1003,$0.44 ,2,Digikey,SDR10EZPF1003 Rohm Semiconductor | Resistors | DigiKey,"R6,R7",Resistor,100kΩ
+SDR10EZPF2204,$0.22 ,1,Digikey,SDR10EZPF2204 Rohm Semiconductor | Resistors | DigiKey,R8,Resistor,2.2MΩ
+SDR10EZPF1R00,$1.54 ,7,Digikey,SDR10EZPF1R00 Rohm Semiconductor | Resistors | DigiKey,"R9,R13,R15,R17,R19,R21,R23",Resistor,1Ω
+RLT1220-F-5R00-FNH,$0.47 ,1,Digikey,RLT1220-F-5R00-FNH Delta Electronics/Cyntec | Resistors | DigiKey,R10,Resistor,5Ω
+RK73H2ATTD64R9F,$0.10 ,1,Digikey,"RK73H2ATTD64R9F KOA Speer Electronics, Inc. | Resistors | DigiKey",R11,Resistor,65Ω (64.9)
+SDR10EZPF4700,$1.32 ,6,Digikey,SDR10EZPF4700 Rohm Semiconductor | Resistors | DigiKey,"R12,R14,R16,R18,R20,R22",Resistor,470Ω
+RT0805BRD07723RL,$0.17 ,1,Digikey,RT0805BRD07723RL YAGEO | Resistors | DigiKey,R24,Resistor,722Ω (723)
+RK73H2ATTD1691F,$0.10 ,1,Digikey,"RK73H2ATTD1691F KOA Speer Electronics, Inc. | Resistors | DigiKey",R25,Resistor,1700Ω (1.69k)
+,,,,,,,
+TOTAL,$118.58 ,119,,,,,
