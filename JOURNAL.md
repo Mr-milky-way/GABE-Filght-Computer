@@ -5,7 +5,7 @@ description: "A small, multipurpose flight computer for a rocket"
 created_at: "2025-05-24"
 ---
 
-**Total time spent: 21h 37m**
+**Total time spent: 22h 5m**
 
 # May 24th: Started on the PCB and BOM
 
@@ -80,4 +80,4 @@ I just finnished every thing else like the holder CAD and demo code and will be 
 
 
 
-Time Spent: 1h 37m
+Time Spent: 2h 5m
