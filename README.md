@@ -16,6 +16,8 @@ I wanted it to look nice and work well and use mostly SMD parts, and for the mos
 ![image](https://github.com/user-attachments/assets/dc41c6b8-1c9d-4b0a-944e-d04a040d8acd)
 ![image](https://github.com/user-attachments/assets/33834331-04f3-431d-9567-a6984d7fb4f2)
 ![image](https://github.com/user-attachments/assets/3ae42132-1930-4ab8-81db-efbe3ae06245)
+![Uploading image.png…]()
+
 
 
 ## BOM
