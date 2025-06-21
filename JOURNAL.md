@@ -75,8 +75,7 @@ Time Spent: 2h 32m
 
 # June 21th: Finished everything else and submitting.
 
-I just finnished every thing else and will be submitting this later to today
-![image](https://github.com/user-attachments/assets/6a44da32-e9b1-422d-9b8e-a97e3571cde3)
+I just finnished every thing else like the holder CAD and demo code and will be submitting this later to today
 ![image](https://github.com/user-attachments/assets/dc67b54a-42c4-45a2-b4cd-fb981163b3c9)
 
 
