@@ -8,6 +8,9 @@ The GABE flight computer is an open source rocket flight computer for controllin
 
 I tried to make it look nice but IDK, also that cad needs some work so thats why it's not shown.
 
+> [!NOTE]
+> The code is a demo of the Servos, LED, Pyros, and buzzer. This is so I have A low or very low ITAR risk. :)
+
 ## Why?
 For aboout 3 years at this point I have wanted to make a Fin controlled rocket, and my first flight computter was, well a first. It didn't work really well and ended up frying itself via the servo PWM lines (I fixed that on this one with a level shifter). It was also large and bulky and the wire connectors were to small, not to mention it was ugly. So I set out to make this one.
 I wanted it to look nice and work well and use mostly SMD parts, and for the most part I did.
